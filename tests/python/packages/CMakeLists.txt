@@ -39,6 +39,7 @@ nisar/cal/corner_reflector.py
 nisar/cal/faraday_rotation_angle_slc.py
 nisar/cal/pol_channel_imbalance_slc.py
 nisar/cal/qfsp_slip.py
+nisar/examples/sicd_to_nisar_rslc.py
 nisar/mixed_mode/logic.py
 nisar/mixed_mode/processing.py
 nisar/noise/noise_estimation_from_raw.py
